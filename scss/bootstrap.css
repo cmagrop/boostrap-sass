@@ -12,9 +12,13 @@ section {
 footer {
   margin-top: 50%;
   position: absolute;
-  background-color: greenyellow;
+  background-color: #2f55ff;
   height: 140px;
   width: 100%;
+}
+
+.radio-inline-margin {
+  margin-right: 15px;
 }
 
 :root {
